@@ -12,5 +12,6 @@ Console.WriteLine($"Meu nome completo é:{firtname} {surname} {lastname} e a min
 
 Console.WriteLine("Escreva o seu nome: ");
 string nome = Console.ReadLine();
-Console.WriteLine($" Olá {nome}, boa noite!!!");
+Console.WriteLine($" Olá {nome}, boa noite!!!");  
+//poiis
 
